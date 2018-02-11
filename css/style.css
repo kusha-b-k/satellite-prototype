@@ -1,6 +1,6 @@
 .background-image {
   display: block;
-  background-image: url('assets/SpaceBg.png');
+  background-image: url('https://github.com/kusha-b-k/satellite-prototype/blob/master/assets/SpaceBg.png');
   width: 1200px;
   height: 800px;
   -webkit-filter: blur(5px);
