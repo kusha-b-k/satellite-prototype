@@ -1,4 +1,4 @@
 ## satellite-prototype
 
-# Demo in process
+# Demo
 https://kusha-b-k.github.io/satellite-prototype/
